@@ -1,0 +1,12 @@
+
+li{
+    display: inline-block;
+}
+
+p{
+
+    border:  solid red;
+    height: 70px;
+    width: 50px;
+    margin-right: 280px;
+}
